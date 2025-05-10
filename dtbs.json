@@ -1,9 +1,14 @@
 {
   "dbnya": [
-   { 
-    "nomor": "6285183701673",
-    "username": "putrax",
-    "password": "putrax"
-   }
+    {
+      "nomor": "6285183701673",
+      "username": "putrax",
+      "password": "putrax"
+    },
+    {
+      "username": "putnews",
+      "password": "putnew",
+      "nomor": "6282291310495"
+    }
   ]
 }
