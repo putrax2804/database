@@ -1,34 +1,3 @@
 {
-  "dbnya": [
-    {
-      "username": "putra",
-      "password": "putrax",
-      "nomor": "6282291310495"
-    },
-    {
-      "username": "putra",
-      "password": "2804",
-      "nomor": "6285183701673"
-    },
-    {
-      "username": "wahid",
-      "password": "wahid",
-      "nomor": "6283817970446"
-    },
-    {
-      "username": "raxxy",
-      "password": "raxxy",
-      "nomor": "6282151019801"
-    },
-    {
-      "username": "langz",
-      "password": "langz",
-      "nomor": "6282165017994"
-    },
-    {
-      "username": "langz",
-      "password": "langzx",
-      "nomor": "6285720906919"
-    }
-  ]
+  "dbnya": []
 }
